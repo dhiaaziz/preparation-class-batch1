@@ -1,4 +1,10 @@
 Nama: Dhia Aziz Rizqi Arrahman
 Stack: Fullstack
+<<<<<<< HEAD
 Technology: PHP(Laravel, Codeigniter), Javascrip(React), CSS(Tailwindcss, boostrap), Python
 Umur: 2000 tahun
+=======
+Technology: PHP(Laravel, Codeigniter), Javascrip(React), CSS(Tailwindcss, boostrap)
+Umur: 25 tahun
+Asal:
+>>>>>>> ecd1882c6438d1d525ac46b32b69d92fdeaa094d
