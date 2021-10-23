@@ -1,0 +1,18 @@
+jira: 
+ 1. focus untuk pengerjaan project yang besar dan/atau menggunakan metode scrum
+ 2. fitur paling kompleks/ cocok untuk large-size team
+ 3. memiliki learning curve tinggi / membutuhkan effort tinggi untuk mempelajari workflownya
+ 4. harga relatif tinggi
+ 
+
+asana:
+ 1. focus ticketing management yang berbentuk list(bukan card)
+ 2. memiliki fitur yang cocok untuk mid-size team
+ 3. learning curve masih terbilang mudah
+ 4. harganya relatif lebih murah dari jira
+
+trello: 
+ 1. focus pada kanban board
+ 2. memiliki fitur paling basic
+ 3. no learning curve / ease of use
+ 4. pricing lebih affordable
