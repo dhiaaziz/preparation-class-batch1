@@ -1,0 +1,33 @@
+vscode keyboard shortcut pada mac:
+
+command + c : copy
+command + v : paste
+command + x : cut line/satu baris
+command + z : undo
+command + shift + z : redo
+command + s : save file
+
+command + shift + k : remove line/satu baris
+command + q : quit vscode
+command + n : new file 
+command + o : open folder
+command + p : open file yang ada didalam current work directory
+command + shift + n  : new window
+command + f : search di dalam satu file
+command + shift + f : search di dalam satu project
+command + w : close instance
+
+
+ctrl + ` : toggle vscode terminal
+command + b : toggle sidebar
+command + k z : zen mode
+command + \ : split editor
+command + d : select string yang identik dengan yang di blok
+option + spacebar : auto complete suggestion 
+command + shift + p : memunculkan command pallete
+
+command + shift + e : membuka file explorer
+command + shift + x : membuka menu extension
+ctrl + shift + g : membuka menu git
+
+option + shift + f : auto format document/prettier
